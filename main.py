@@ -1,1 +1,2 @@
-print('Questo è il mio primo main')
+from random import randint 
+store = ["mele", "pere", "prugne"," uva, cocco"
